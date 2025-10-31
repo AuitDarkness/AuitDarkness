@@ -18,14 +18,13 @@
         <li><b>PHP - чистый PHP </li>
         <li><b>Spring Framework</b> - Boot, MVC, Data</li>
         <li><b>Базы данных</b> - PostgreSQL, MySQL</li>
-        <li><b>API</b> - REST</li>
       </ul>
     </td>
     <td align="center" width="33%">
       <h3>🎨 Frontend</h3>
       <ul align="left">
         <li><b>HTML5/CSS3</b> - семантическая верстка</li>
-        <li><b>JavaScript/TypeScript</b> - ES6+</li>
+        <li><b>JavaScript</b> - ES6+</li>
       </ul>
     </td>
   </tr>
