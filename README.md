@@ -34,10 +34,6 @@
 
 ## 🌐 Мои проекты и контакты
 
-### 🚀 Основной сайт
-<a href="https://AuitDark.ru" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_AuitDark.ru-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-</a>
 
 ### 💼 Социальные сети
 <a href="https://t.me/AuitDarkCard" target="_blank">
